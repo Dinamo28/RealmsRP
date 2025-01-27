@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 61,
+        "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 1000
+	},
+    "description": [
+      "Adapted from Lillie bit of fruit, tool trims, josh's more foods"
+    ]
+  }
+}

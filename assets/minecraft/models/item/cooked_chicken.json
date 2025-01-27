@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_chicken"
+    },
+	"overrides": [
+			{ "predicate": { "custom_model_data": 1}, "model": "item/coconut"},
+			{ "predicate": { "custom_model_data": 2}, "model": "item/starfruit"},
+			{ "predicate": { "custom_model_data": 3}, "model": "item/lurker_sashimi"},
+			{ "predicate": { "custom_model_data": 4}, "model": "item/fish/fried_calamari"},
+			{ "predicate": { "custom_model_data": 233001}, "model": "item/fruit/apricot"},
+			{ "predicate": { "custom_model_data": 233002}, "model": "item/fruit/avacado"},
+			{ "predicate": { "custom_model_data": 233003}, "model": "item/fruit/baobab"},
+			{ "predicate": { "custom_model_data": 233004}, "model": "item/fruit/blackberry"},
+			{ "predicate": { "custom_model_data": 233005}, "model": "item/fruit/blueberries"},
+			{ "predicate": { "custom_model_data": 233006}, "model": "item/fruit/cherries"},
+			{ "predicate": { "custom_model_data": 233007}, "model": "item/fruit/coconut"},
+			{ "predicate": { "custom_model_data": 233008}, "model": "item/fruit/dragonfruit"},
+			{ "predicate": { "custom_model_data": 233009}, "model": "item/fruit/elderberries"},
+			{ "predicate": { "custom_model_data": 233010}, "model": "item/fruit/fig"},
+			{ "predicate": { "custom_model_data": 233011}, "model": "item/fruit/fingered_citron"},
+			{ "predicate": { "custom_model_data": 233012}, "model": "item/fruit/mango"},
+			{ "predicate": { "custom_model_data": 233013}, "model": "item/fruit/orange"},
+			{ "predicate": { "custom_model_data": 233014}, "model": "item/fruit/papaya"},
+			{ "predicate": { "custom_model_data": 233015}, "model": "item/fruit/pear"},
+			{ "predicate": { "custom_model_data": 233016}, "model": "item/fruit/persimmon"},
+			{ "predicate": { "custom_model_data": 233017}, "model": "item/fruit/pineapple"},
+			{ "predicate": { "custom_model_data": 233018}, "model": "item/fruit/plum"},
+			{ "predicate": { "custom_model_data": 233019}, "model": "item/fruit/pomegranate"},
+			{ "predicate": { "custom_model_data": 233020}, "model": "item/fruit/purple_grapes"},
+			{ "predicate": { "custom_model_data": 233021}, "model": "item/fruit/raspberry"},
+			{ "predicate": { "custom_model_data": 233022}, "model": "item/fruit/starfruit"},
+			{ "predicate": { "custom_model_data": 233023}, "model": "item/fruit/strawberry"},
+			{ "predicate": { "custom_model_data": 233024}, "model": "item/fruit/white_grapes"},
+			{ "predicate": { "custom_model_data": 233025}, "model": "item/fruit/white_peach"},
+			{ "predicate": { "custom_model_data": 233026}, "model": "item/fruit/yellow_peach"}
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chorus_fruit"
+    },
+	"overrides": [
+			{ "predicate": { "custom_model_data": 233001}, "model": "item/fruit/chorus_apple"},
+			{ "predicate": { "custom_model_data": 233002}, "model": "item/fruit/chorus_avacado"},
+			{ "predicate": { "custom_model_data": 233003}, "model": "item/fruit/chorus_berries"},
+			{ "predicate": { "custom_model_data": 233004}, "model": "item/fruit/chorus_dragonfruit"},
+			{ "predicate": { "custom_model_data": 233005}, "model": "item/fruit/chorus_grapes"},
+			{ "predicate": { "custom_model_data": 233006}, "model": "item/fruit/chorus_hand"},
+			{ "predicate": { "custom_model_data": 233007}, "model": "item/fruit/chorus_mango"},
+			{ "predicate": { "custom_model_data": 233008}, "model": "item/fruit/chorus_peach"},
+			{ "predicate": { "custom_model_data": 233009}, "model": "item/fruit/chorus_pear"},
+			{ "predicate": { "custom_model_data": 233010}, "model": "item/fruit/chorus_plum"}
+	]
+}

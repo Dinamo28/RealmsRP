@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/apple"
+    },
+	"overrides": [
+			{ "predicate": { "custom_model_data": 233001}, "model": "item/fruit/green_apple"},
+			{ "predicate": { "custom_model_data": 233002}, "model": "item/fruit/yellow_apple"}
+	]
+}
